@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaRestaurante.Dominio", "GuiaRestaurante.Dominio\GuiaRestaurante.Dominio.csproj", "{6FD4CF71-F92F-4807-9B79-BCCC627EC0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaRestaurante.Infra", "GuiaRestaurante.Infra\GuiaRestaurante.Infra.csproj", "{6AABA26A-28EF-482C-89A4-79582209D81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaRestaurante.SharedKernel", "GuiaRestaurante.SharedKernel\GuiaRestaurante.SharedKernel.csproj", "{A41447D1-815E-4107-B7B9-B26B97010287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaRestaurante.AplicacaoServico", "GuiaRestaurante.AplicacaoServico\GuiaRestaurante.AplicacaoServico.csproj", "{264F841F-8959-42FF-BB0E-0E36ADCBB068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaRestaurante.CrossCutting", "GuiaRestaurante.CrossCutting\GuiaRestaurante.CrossCutting.csproj", "{018D3248-509F-4393-962C-51B46AFEE9F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaRestaurante.Api", "GuiaRestaurante.Api\GuiaRestaurante.Api.csproj", "{67FBCCE5-72FF-45E0-9E39-497CD39AFDF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FD4CF71-F92F-4807-9B79-BCCC627EC0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD4CF71-F92F-4807-9B79-BCCC627EC0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD4CF71-F92F-4807-9B79-BCCC627EC0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD4CF71-F92F-4807-9B79-BCCC627EC0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AABA26A-28EF-482C-89A4-79582209D81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AABA26A-28EF-482C-89A4-79582209D81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AABA26A-28EF-482C-89A4-79582209D81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AABA26A-28EF-482C-89A4-79582209D81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41447D1-815E-4107-B7B9-B26B97010287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41447D1-815E-4107-B7B9-B26B97010287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41447D1-815E-4107-B7B9-B26B97010287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41447D1-815E-4107-B7B9-B26B97010287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264F841F-8959-42FF-BB0E-0E36ADCBB068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264F841F-8959-42FF-BB0E-0E36ADCBB068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264F841F-8959-42FF-BB0E-0E36ADCBB068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264F841F-8959-42FF-BB0E-0E36ADCBB068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018D3248-509F-4393-962C-51B46AFEE9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018D3248-509F-4393-962C-51B46AFEE9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018D3248-509F-4393-962C-51B46AFEE9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018D3248-509F-4393-962C-51B46AFEE9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FBCCE5-72FF-45E0-9E39-497CD39AFDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FBCCE5-72FF-45E0-9E39-497CD39AFDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FBCCE5-72FF-45E0-9E39-497CD39AFDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FBCCE5-72FF-45E0-9E39-497CD39AFDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87096B8A-A3D2-45DE-9AF0-99BBE515409F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.AplicacaoServico.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.AplicacaoServico.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.Dominio.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.Infra.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.SharedKernel.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\EntityFramework.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.Dominio.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.Infra.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.Infra.dll.config
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\GuiaRestaurante.SharedKernel.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\bin\Debug\EntityFramework.xml
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\obj\Debug\GuiaRestaurante.AplicacaoServico.csprojResolveAssemblyReference.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\obj\Debug\GuiaRestaurante.AplicacaoServico.csproj.CoreCompileInputs.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\obj\Debug\GuiaRestaurante.AplicacaoServico.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.AplicacaoServico\obj\Debug\GuiaRestaurante.AplicacaoServico.pdb

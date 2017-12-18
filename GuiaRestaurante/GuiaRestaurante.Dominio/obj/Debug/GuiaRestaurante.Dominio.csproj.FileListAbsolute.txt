@@ -1,0 +1,8 @@
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\bin\Debug\GuiaRestaurante.Dominio.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\bin\Debug\GuiaRestaurante.Dominio.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\bin\Debug\GuiaRestaurante.SharedKernel.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\bin\Debug\GuiaRestaurante.SharedKernel.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\obj\Debug\GuiaRestaurante.Dominio.csprojResolveAssemblyReference.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\obj\Debug\GuiaRestaurante.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\obj\Debug\GuiaRestaurante.Dominio.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Dominio\obj\Debug\GuiaRestaurante.Dominio.pdb

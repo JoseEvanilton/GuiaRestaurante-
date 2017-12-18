@@ -1,0 +1,15 @@
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.Infra.dll.config
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.Infra.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.Infra.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\EntityFramework.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.Dominio.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.SharedKernel.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.Dominio.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\EntityFramework.xml
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\bin\Debug\GuiaRestaurante.SharedKernel.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\obj\Debug\GuiaRestaurante.Infra.csprojResolveAssemblyReference.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\obj\Debug\GuiaRestaurante.Infra.csproj.CoreCompileInputs.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\obj\Debug\GuiaRestaurante.Infra.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.Infra\obj\Debug\GuiaRestaurante.Infra.pdb

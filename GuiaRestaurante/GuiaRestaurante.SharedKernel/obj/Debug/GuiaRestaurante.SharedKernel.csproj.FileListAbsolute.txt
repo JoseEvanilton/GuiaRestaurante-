@@ -1,0 +1,5 @@
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.SharedKernel\bin\Debug\GuiaRestaurante.SharedKernel.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.SharedKernel\bin\Debug\GuiaRestaurante.SharedKernel.pdb
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.SharedKernel\obj\Debug\GuiaRestaurante.SharedKernel.csproj.CoreCompileInputs.cache
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.SharedKernel\obj\Debug\GuiaRestaurante.SharedKernel.dll
+C:\dev\Guia\GuiaRestaurante\GuiaRestaurante.SharedKernel\obj\Debug\GuiaRestaurante.SharedKernel.pdb
