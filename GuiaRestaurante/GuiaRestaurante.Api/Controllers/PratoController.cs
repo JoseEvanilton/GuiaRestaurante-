@@ -150,13 +150,13 @@ namespace GuiaRestaurante.Api.Controllers
         }
 
         [HttpDelete]
-        [Route("api/pratos/deleta/")]
-        public Task<HttpResponseMessage> deleteEmail([FromBody]dynamic body) // Deleta o restaurante
+        [Route("api/pratos/deleta/{nome}")]
+        public Task<HttpResponseMessage> delete(string nome) // Deleta o restaurante
         {
             var response = new HttpResponseMessage();
             try
             {
-                var command = new DeletarPratoComando((string)body.nome);
+                var command = new DeletarPratoComando(nome);
 
                 var pratos = _service.Delete(command);
 
